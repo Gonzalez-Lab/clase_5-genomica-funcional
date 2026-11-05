@@ -148,10 +148,5 @@ Check sufficient nuclei per sample in the selected subtype; inspect missing cell
 
 ## Data provenance and citation
 
-**Dataset:** rat nucleus accumbens snRNA-seq, cocaine vs saline, four libraries (female/male × treatment).  
-**Public accession / primary publication:** *to be verified against the exact matrices used in class before release*.  
-**Software:** Seurat, DESeq2, edgeR, EnhancedVolcano and associated R packages; cite the relevant software publications in derivative scientific work.
-
-## Intended use
-
-Hands-on postgraduate instruction in functional genomics and single-cell transcriptomics. The scripts are designed to expose individual processing steps and analytical assumptions, not to serve as a fully validated production pipeline.
+**Dataset:** rat nucleus accumbens snRNA-seq, cocaine vs saline, four libraries (female/male × treatment).  Adult NAc snRNA-seq - GEO accession GSE137763
+Savell, K.E., Tuscher, J.J., Zipperly, M.E., Duke, C.G., Phillips III, R.A.*, Bauman, A.J., Thukral, S., Sultan, F.A., Goska, N.A., Ianov, L., & Day, J.J. (2020). A dopamine-induced gene expression signature regulates neuronal function and cocaine response. Science Advances 6(26): eaba4221
